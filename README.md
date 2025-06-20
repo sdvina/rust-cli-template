@@ -20,7 +20,7 @@ Generate in the current folder:
 cargo generate --init --git https://github.com/sdvina/cli-template-rs.git
 ```
 
-## What does this template contains?
+## Features
 
 - Layered configuration with [config-rs](https://github.com/mehcode/config-rs)
 - Command line argument parser and shell completions with [clap](https://github.com/clap-rs/clap)
