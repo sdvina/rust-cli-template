@@ -11,13 +11,13 @@ cargo install cargo-generate
 Generate into a subfolder:
 
 ```bash
-cargo generate --git https://github.com/sdvina/cli-template-rs.git
+cargo generate --git https://github.com/sdvina/rust-cli-template.git
 ```
 
 Generate in the current folder:
 
 ```bash
-cargo generate --init --git https://github.com/sdvina/cli-template-rs.git
+cargo generate --init --git https://github.com/sdvina/rust-cli-template.git
 ```
 
 ## Features
